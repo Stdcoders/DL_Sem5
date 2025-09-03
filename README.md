@@ -1,1 +1,1 @@
-Deep Learning Lab Assignments Sem 5
+# Deep Learning - Sem 5
